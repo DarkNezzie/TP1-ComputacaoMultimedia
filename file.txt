@@ -1,0 +1,5 @@
+Velocity	Angle	Impact	y	Distancehevc/barco_out3.png	1
+jp2/mountain_out2.png	2
+jp2/horses_out1.png	5
+jp2/cars_out3.png	4
+jp2/barco_out4.png	4

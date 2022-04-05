@@ -1,0 +1,76 @@
+BIT RATES:
+
+#VP9 tamanho / 8 /resolucao
+#barcos 9038080
+barco_out1.mp4:0.1418
+barco_out2.mp4:0.0983
+barco_out3.mp4:0.0595
+barco_out4.mp4:0.0199
+
+# carros 3053056
+cars_out1.mp4:0.1939
+cars_out2.mp4:0.1506
+cars_out3.mp4:0.1098
+cars_out4.mp4:0.0324
+
+# horses 2519424
+horses_out1.mp4:0.1195
+horses_out2.mp4:0.0884
+horses_out3.mp4:0.0624
+horses_out4.mp4:0.0201
+
+# mountain 2934400
+mountain_out1.mp4:0.1665
+mountain_out2.mp4:0.1349
+mountain_out3.mp4:0.1061
+mountain_out4.mp4:0.0457
+
+#hevc
+#barcos 9038080
+barco_out1.mp4:0.0514
+barco_out2.mp4:0.0172
+barco_out3.mp4:0.0053
+barco_out4.mp4:0.0010
+
+# carros 3053056
+cars_out1.mp4:0.0927
+cars_out2.mp4:0.0327
+cars_out3.mp4:0.0075
+cars_out4.mp4:0.0008
+
+# horses 2519424
+horses_out1.mp4:0.0476
+horses_out2.mp4:0.0175
+horses_out3.mp4:0.0053
+horses_out4.mp4:0.0014
+
+# mountain 2934400
+mountain_out1.mp4:0.0851
+mountain_out2.mp4:0.0391
+mountain_out3.mp4:0.0120
+mountain_out4.mp4:0.0016
+
+#jp2000
+#barcos 9038080
+barco_out1.mp4:0.0083
+barco_out2.mp4:0.0028
+barco_out3.mp4:0.0022
+barco_out4.mp4:0.0018
+
+# carros 3053056
+cars_out1.mp4:0.0075
+cars_out2.mp4:0.0013
+cars_out3.mp4:0.0010
+cars_out4.mp4:0.0007
+
+# horses 2519424
+horses_out1.mp4:0.0069
+horses_out2.mp4:0.0020
+horses_out3.mp4:0.0014
+horses_out4.mp4:0.0010
+
+# mountain 2934400
+mountain_out1.mp4:0.0133
+mountain_out2.mp4:0.0021
+mountain_out3.mp4:0.0012
+mountain_out4.mp4:0.0007
